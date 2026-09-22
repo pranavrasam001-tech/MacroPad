@@ -23,3 +23,10 @@ Finally I have done my customized schematic design as I have got many ideas and 
 # time spent:1.5hr
 ## description:
 Now I completed the pcb editor at last arranged it in a vey nicely, and I was confused with the red and blue wires about connecting them but figured it out and also I have customized with the logos of funny pic, they looks pretty enough  and I have done it by adding it to the image converter it was super time taking but completed at last, DRC was also giving many problems to me , it took a lot of time to resolve and also I fixed few errors by inspecting the board.the 3d view looks vey cute enough…!
+
+------
+
+# date:22/9
+# time spent:1.5hr
+## description:
+After doing my level 1 of my base there was very confusing for do for depth as my guide confuses me the holes and the outer rectangle, there are more number of sketches like inner , outer, usb port. Finally I have created my base but it still not looking good , only like blocky and all other stuff .3d was a good stuff as it gave a good look.
