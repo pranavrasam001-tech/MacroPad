@@ -44,3 +44,12 @@ now actually I have completed my base by doing the usb port with dimentions take
 # time spent:1.5hr
 ## description:
 the phase where I got stuck completely is here , the problem was the base need to be created in the XY plane from the start but I have done in YZ plane where all side views are completely different , was a bit difficult to watch the views and all and i noticed this when i was doing the top part of the body , then realised I have rectified it and then corrected it to the XY plane again from the start with the exact dimensions taken before . which made me more confuse and to learn from mistakes
+
+------
+
+# date:22/9
+# time spent:1.5hr
+## description:
+i have started creating the top of my case where i have created the switch boards with accurate holes and some of the rectangles where the screen and the OLED needed and was quite difficult to change the dimensions of the space between the rectangles like measuring every side of the rectangle was a quite difficult 
+
+------
