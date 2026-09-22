@@ -37,3 +37,10 @@ After doing my level 1 of my base there was very confusing for do for depth as m
 # time spent:1.5hr
 ## description:
 now actually I have completed my base by doing the usb port with dimentions taken from my pcb of usb port (from edge to the usb port distance) ,adding the height, giving the border radius and editing the holes, the 3d view was very much cool as it is lokking like an container or an matchbox. And I have started doing my top right now.giving the circles at the end of the base was bit difficult to measure the sides and the diameter everytime.
+
+------
+
+# date:22/9
+# time spent:1.5hr
+## description:
+the phase where I got stuck completely is here , the problem was the base need to be created in the XY plane from the start but I have done in YZ plane where all side views are completely different , was a bit difficult to watch the views and all and i noticed this when i was doing the top part of the body , then realised I have rectified it and then corrected it to the XY plane again from the start with the exact dimensions taken before . which made me more confuse and to learn from mistakes
