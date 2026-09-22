@@ -9,3 +9,10 @@ Firstly I have successfully installed KiCad and finished setting up, I have star
 # time spent:1.5hr
 ## description:
 I have updated the footprints in the schematic section, when it was completed, I have moved into pcb section where I have updated by the schematic parts into pcb completely, as I was following the new guide there was a mixed image as shown in yellow but in kicad it was showing in red, I was confused that did I placed correctly or not. connection of wires was difficult as it was my first hardware project. At last, I solved every problem I faced in it and the pcb in the 3d view was amazing, now its time to customize the schematics as I require in a new way. 
+
+------
+
+# date:22/9
+# time spent:1hr
+## description:
+Finally I have done my customized schematic design as I have got many ideas and the guide was not shown clearly I have added the 0.91 inches screen, and bit very difficult to search as connections, which one suits the schematic . and I found the footprint and I have added to the screen by learning all the possible ways of doing this project. Now the schematic Is ready to explore and it to the pcb edditor
