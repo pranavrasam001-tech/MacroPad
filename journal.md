@@ -16,3 +16,10 @@ I have updated the footprints in the schematic section, when it was completed, I
 # time spent:1hr
 ## description:
 Finally I have done my customized schematic design as I have got many ideas and the guide was not shown clearly I have added the 0.91 inches screen, and bit very difficult to search as connections, which one suits the schematic . and I found the footprint and I have added to the screen by learning all the possible ways of doing this project. Now the schematic Is ready to explore and it to the pcb edditor
+
+------
+
+# date:22/9
+# time spent:1.5hr
+## description:
+Now I completed the pcb editor at last arranged it in a vey nicely, and I was confused with the red and blue wires about connecting them but figured it out and also I have customized with the logos of funny pic, they looks pretty enough  and I have done it by adding it to the image converter it was super time taking but completed at last, DRC was also giving many problems to me , it took a lot of time to resolve and also I fixed few errors by inspecting the board.the 3d view looks vey cute enough…!
