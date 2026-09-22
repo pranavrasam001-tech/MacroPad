@@ -30,3 +30,10 @@ Now I completed the pcb editor at last arranged it in a vey nicely, and I was co
 # time spent:1.5hr
 ## description:
 After doing my level 1 of my base there was very confusing for do for depth as my guide confuses me the holes and the outer rectangle, there are more number of sketches like inner , outer, usb port. Finally I have created my base but it still not looking good , only like blocky and all other stuff .3d was a good stuff as it gave a good look.
+
+------
+
+# date:22/9
+# time spent:1.5hr
+## description:
+now actually I have completed my base by doing the usb port with dimentions taken from my pcb of usb port (from edge to the usb port distance) ,adding the height, giving the border radius and editing the holes, the 3d view was very much cool as it is lokking like an container or an matchbox. And I have started doing my top right now.giving the circles at the end of the base was bit difficult to measure the sides and the diameter everytime.
