@@ -53,3 +53,18 @@ the phase where I got stuck completely is here , the problem was the base need t
 i have started creating the top of my case where i have created the switch boards with accurate holes and some of the rectangles where the screen and the OLED needed and was quite difficult to change the dimensions of the space between the rectangles like measuring every side of the rectangle was a quite difficult 
 
 ------
+
+##Images
+<img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/ddf086d2-6cc9-4a35-a2eb-cda57131335a" />
+<img width="940" height="500" alt="image" src="https://github.com/user-attachments/assets/1b212047-682e-4783-8d70-41fc009cc6c5" />
+<img width="940" height="508" alt="image" src="https://github.com/user-attachments/assets/9d988c25-d07a-4cc4-82f6-1a5af7a8e7e0" />
+<img width="940" height="500" alt="image" src="https://github.com/user-attachments/assets/25dbf375-ef3a-4770-9b20-6d1ec247d5a3" />
+<img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/05404eae-7258-46e6-8f5a-d595043ae67e" />
+<img width="940" height="504" alt="image" src="https://github.com/user-attachments/assets/f0416b9a-11a9-4dcc-8d83-b7e731be1889" />
+<img width="940" height="512" alt="image" src="https://github.com/user-attachments/assets/7dd24780-cd32-4755-8f2a-fb9f23708c08" />
+<img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/fe3971af-f171-45d7-8276-8c97477a6a56" />
+<img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/9bfac3f8-640c-4943-990d-6c271bf82842" />
+<img width="940" height="500" alt="image" src="https://github.com/user-attachments/assets/97e01149-5a4f-4d6b-80bb-73b10718d05f" />
+<img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/6ce0efcf-4ffa-497c-aba8-7a5877efd1e7" />
+<img width="940" height="500" alt="image" src="https://github.com/user-attachments/assets/092752f5-1fc3-4abd-bb51-fa7c4280d60c" />
+<img width="1917" height="988" alt="image" src="https://github.com/user-attachments/assets/94194153-bc8d-413f-8a65-23584a130ed1" />
