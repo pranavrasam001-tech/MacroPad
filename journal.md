@@ -53,6 +53,11 @@ the phase where I got stuck completely is here , the problem was the base need t
 i have started creating the top of my case where i have created the switch boards with accurate holes and some of the rectangles where the screen and the OLED needed and was quite difficult to change the dimensions of the space between the rectangles like measuring every side of the rectangle was a quite difficult 
 
 ------
+# time spent:1.5hr
+## description:
+i have donw with the firmware of the project and its ready to ship.
+##Images
+<img width="1431" height="743" alt="image" src="https://github.com/user-attachments/assets/756c5422-9f94-4832-aa32-60c2d09570bf" />
 
 ##Images
 <img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/ddf086d2-6cc9-4a35-a2eb-cda57131335a" />
