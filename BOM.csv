@@ -1,4 +1,13 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"SW1, SW2, SW3, SW5";"SW_Cherry_MX_1.00u_PCB";4;"SW_Push";;;
-2;"U1";"XIAO-Generic-Hybrid-14P-2.54-21X17.8MM";1;"MOUDLE-SEEEDUINO-XIAO";;;
-3;"U3";"ER_OLEDM0.91_1x-I2C";1;"ER_OLEDM0.91_1x-I2C";;;
+## Bill of Materials and Estimated Cost
+
+| ID | Component | Designator | Quantity | Unit Price (USD) | Total (USD) | Purchase Link |
+|---:|---|---|---:|---:|---:|---|
+| 1 | Mechanical Key Switches | SW1, SW2, SW3, SW5 | 4 | $1.19 | $4.75 | [Buy Switches](https://www.thecosmicbyte.com/) |
+| 2 | Seeed Studio XIAO RP2040 | U1 | 1 | $4.98 | $4.98 | [Buy XIAO RP2040](https://compoindia.com/product/seeed-studio-xiao-rp2040-v1-0/) |
+| 3 | 0.91-inch I2C OLED Display | U3 | 1 | $1.79 | $1.79 | [Buy OLED Display](https://techdelivers.com/) |
+| 4 | Custom PCB Fabrication | PCB | 1 | TBD | TBD | [JLCPCB](https://jlcpcb.com/) |
+| 5 | Enclosure Fabrication | Case | 1 | TBD | TBD | [3D Printing Services](https://robu.in/) |
+| 6 | Shipping Charges | - | - | TBD | TBD | Depends on supplier |
+| | | | | **Component Subtotal** | **$11.52** | |
+| | | | | **PCB and Enclosure** | **TBD** | |
+| | | | | **Estimated Project Total** | **$11.52 + fabrication and shipping** | |
