@@ -122,15 +122,19 @@ It gave me a chance to explore how a simple hardware project can be designed aro
 
 ---
 
-## What's Next?
+## Bill of Materials and Estimated Cost
 
-- Develop firmware for the four keys.
-- Configure shortcuts for travel-related tools.
-- Add functionality to the OLED display.
-- Assemble and test the PCB.
-- Refine the enclosure based on the physical build.
-
----
+| ID | Component | Designator | Quantity | Unit Price (USD) | Total (USD) | Purchase Link |
+|---:|---|---|---:|---:|---:|---|
+| 1 | Mechanical Key Switches | SW1, SW2, SW3, SW5 | 4 | $1.19 | $4.75 | [Buy Switches](https://www.thecosmicbyte.com/) |
+| 2 | Seeed Studio XIAO RP2040 | U1 | 1 | $4.98 | $4.98 | [Buy XIAO RP2040](https://compoindia.com/product/seeed-studio-xiao-rp2040-v1-0/) |
+| 3 | 0.91-inch I2C OLED Display | U3 | 1 | $1.79 | $1.79 | [Buy OLED Display](https://techdelivers.com/) |
+| 4 | Custom PCB Fabrication | PCB | 1 | TBD | TBD | [JLCPCB](https://jlcpcb.com/) |
+| 5 | Enclosure Fabrication | Case | 1 | TBD | TBD | [3D Printing Services](https://robu.in/) |
+| 6 | Shipping Charges | - | - | TBD | TBD | Depends on supplier |
+| | | | | **Component Subtotal** | **$11.52** | |
+| | | | | **PCB and Enclosure** | **TBD** | |
+| | | | | **Estimated Project Total** | **$11.52 + fabrication and shipping** | |
 
 ## Author
 
