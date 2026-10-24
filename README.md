@@ -138,6 +138,6 @@ It gave me a chance to explore how a simple hardware project can be designed aro
 
 ## Author
 
-**Manish Vanjari**
+**Pranav Rasam**
 
-TravelPad is a personal project that combines my interest in travelling with my journey into PCB design and hardware development.
+
