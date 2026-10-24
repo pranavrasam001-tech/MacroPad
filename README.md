@@ -139,5 +139,5 @@ It gave me a chance to explore how a simple hardware project can be designed aro
 ## Author
 
 **Pranav Rasam**
-
+https://github.com/pranavrasam001-tech/MacroPad.git
 
